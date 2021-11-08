@@ -322,6 +322,8 @@ df_bubblechart = pd.merge(pd.merge(ind2_final,ind12_final,on='GeoAreaName'),df_p
 
 # fig, ax = plt.subplots()
 
+#hoi
+
 # colours = ['blue', 'green', 'red', 'lightsteelblue','teal', 'plum', 'black', 'orange', 'lawngreen', 'olive']
 
 # p2= plt.scatter(final_df['ind12data'], final_df['ind2data'],
